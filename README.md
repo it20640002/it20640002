@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hello! I'm a software engineering student at SLIIT, with a passion for writing code and solving problems. My primary language is JavaScript, and I have expertise in a variety of programming languages and technologies, including C, C++, Java, ReactJS, PHP, HTML/CSS, MySQL, SQL, Firebase, and MongoDB. I love to stay up-to-date with the latest tech trends and experiment with new technologies. Feel free to connect with me on GitHub and check out my projects! 🌱<br>
+Hello! I'm a software engineering student at SLIIT with a passion for writing code and solving problems. My primary language is JavaScript, and I have a broad range of technical skills and experience. I'm always exploring new technologies and seeking out opportunities to expand my knowledge. Stay current with the latest tech trends by connecting with me on GitHub and checking out my projects. Let's build something amazing together!😜
+<br>
 
 
 ## 🌐 Socials:
